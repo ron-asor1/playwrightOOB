@@ -1,0 +1,1 @@
+// Placeholder for Allure reporting setup for playwright
